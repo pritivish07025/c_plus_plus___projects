@@ -1,0 +1,9 @@
+id,driver,plate,type,lat,lon,available,rating,fare_per_km
+1,Ravi Kumar,KA-01-AB-1234,Sedan,12.9784,77.6408,1,4.8,18.0
+2,Anita Desai,KA-05-CJ-8821,Mini,12.9611,77.6387,1,4.6,14.0
+3,Imran Shah,KA-03-MK-4590,SUV,12.9345,77.6101,1,4.9,24.0
+4,Neha Rao,KA-02-HR-7712,EV,12.9982,77.5921,1,4.7,16.0
+5,Suresh P.,KA-04-QW-3345,Sedan,12.9250,77.6800,0,4.4,18.0
+6,Farah Khan,KA-09-ZX-1180,Mini,12.9716,77.5946,1,4.5,14.0
+7,Deepak Nair,KA-07-LM-6633,EV,12.9538,77.6280,1,4.8,16.0
+8,Joseph Mathew,KA-06-TY-9021,SUV,13.0110,77.6210,1,4.3,24.0
