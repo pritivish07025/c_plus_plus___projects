@@ -6,33 +6,10 @@ This repository contains multiple **console-based C++ projects** covering real-w
 
 ---
 
-## 📌 About This Repository
 
-The purpose of this repository is to practice and implement core **C++ programming concepts** through practical projects.
 
-Instead of learning concepts only theoretically, these projects demonstrate how programming fundamentals can be used to build small, functional applications.
 
-### 🎯 Learning Objectives
 
-* Strengthen C++ programming fundamentals
-* Practice Object-Oriented Programming
-* Improve logical thinking and problem-solving
-* Understand real-world application workflows
-* Practice functions, loops, arrays, strings, and conditional statements
-* Work with file handling and data persistence
-* Build menu-driven console applications
-* Prepare for coding assessments and technical interviews
-
----
-
-## 🛠️ Technologies Used
-
-* **C++**
-* Object-Oriented Programming (OOP)
-* Standard Template Library (STL)
-* File Handling
-* Data Structures & Algorithms
-* Console-Based Application Development
 
 ---
 
